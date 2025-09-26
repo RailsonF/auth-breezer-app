@@ -24,10 +24,10 @@ Siga as instruções abaixo para configurar o ambiente de desenvolvimento e roda
 
 Primeiro, clone este repositório para sua máquina local usando Git:
 ```bash
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-cd seu-repositorio
+git clone https://github.com/RailsonF/auth-breezer-app.git
+cd auth-breezer-app
 ```
-*(Substitua a URL pelo link do seu repositório)*
+
 
 ### 2. Instalar Dependências
 
